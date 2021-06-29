@@ -2,10 +2,6 @@
 
 ## Abstract
 
-IS THIS AN EXPERIMENT YOU'VE DONE BEFORE OR SOMETHING YOU PLAN TO DO?
-
-NEW EXPERIMENT? HAS THIS OR SOMETHING SIMILAR BEEN DONE BEFORE?
-
 The goal of this project was to create custom hardware that opens the door to new heart disease research to the Department of Biological Sciences. The machine operates like a configurable cappuccino machine, pumping two chemicals, one after the other, through the main blood vessel of a mouse.
 
 A previous attempt at this machine has been made, but for decades it was unusable due to lack of documentation and changing research needs. In this project, a new system was designed with simplicity, consistency, and ease of use in mind. The project aimed to reduce systematic error, to increase reproducibility, and lower standard deviation while being configurable enough to support a variety of experiments.
@@ -91,11 +87,7 @@ An Arduino MEGA controls the solenoid pumps in a predifined procedure configured
 
 ### Interface
 
-Displayd on an
-
-SPECIFICS OF DISPLAY,
-
-a graphical user interface allows the user to start, stop, and configure the proceedure. The user may configure the timing of the experiment and whether each solution is recycled or wasted. A state machine manages the interface navigation and updates the display only as necessary. The software is written in C++ using `Adafruit_ILI9341` Library. For future scalability, logic and content are kept seperate. The source code can be found in the project's public github repository.
+Displayd on a TFT pixel display, a graphical user interface allows the user to start, stop, and configure the proceedure. The user may configure the timing of the experiment and whether each solution is recycled or wasted. A state machine manages the interface navigation and updates the display only as necessary. The software is written in C++ using `Adafruit_ILI9341` Library. For future scalability, logic and content are kept seperate. The source code can be found in the project's public github repository.
 
 
 ![menu-photo-1.JPG](images/menu-photo-1.JPG)
@@ -106,8 +98,9 @@ a graphical user interface allows the user to start, stop, and configure the pro
 
 ## Conclusion
 
-- While the task it does is simple, this system serves as a reliable research tool and enables the revival of research which started decades ago with Dr. John Rutledge.
-- This project has been a multidisplinary experience, requiring systems thinking and working on multiple levels of detail. It required communication, project management, planning, and a sense urgency in order to complete on fixed deadline.
+While the proceedure it follows is simple, this system serves as a reliable research tool and enables the revival of research which started decades ago with Dr. John Rutledge.
+
+This project has been a multidisplinary experience, requiring systems thinking and working on multiple levels of detail. It required communication, project management, planning, and a sense urgency in order to complete on fixed deadline.
 
 
 ## Full Project Process

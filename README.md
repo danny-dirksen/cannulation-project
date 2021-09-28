@@ -1,5 +1,32 @@
 # Automated Cannulation System
 
+## Tutorial
+
+### Introduction
+
+![The Whole Setup](images/tut-whole-setup.JPG)
+
+### Pump
+
+![Pump and Ports](images/tut-pump.JPG)
+
+
+
+### Control
+
+![The Whole Setup](images/tut-control.JPG)
+
+### Powering
+
+There are three components that require power: the perestalitc pump, which propells liquids through the device; the arduino, which controls the proceedure and menu; and the solenoid valves, which route the liquids where they need to go. A single power strip can be used for this. The figures above dipict a variable DC power supply powering the valves, but any 12V DC power source will work, and 12V adapters are relatively common and easy to find.
+
+### Moving
+
+It is recommended that you disconect all valves and power before attempting to carry the apparatus. Before doing so, make sure to dry-run the machine. See the "Performing a Dry Run" section for details. This will clear out the liquids from the tubes, minimizing unwanted dripping when tubes are disconnectedd. Once components are seperated, moving is an easy but tedious process.
+
+### Performing a Dry Run
+by pulling the ends of input tubes A and B out of their respective solutions. Leave the return valves in the solution.
+
 ## Abstract
 
 The goal of this project was to create custom hardware that opens the door to new heart disease research to the Department of Biological Sciences. The machine operates like a configurable cappuccino machine, pumping two chemicals, one after the other, through the main blood vessel of a mouse.

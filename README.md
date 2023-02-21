@@ -51,13 +51,13 @@ The presence of plaque in arteries can be measured using a bioflourescent, lipop
 
 Buildup can be dislodged from the arteries by a high-density lipoprotein (HDL) cholesterol [4]. This type of "good" cholesterol takes many forms, differing greatly in molelcular size. It is known that different HDLs may be more or less active, or more or less effective at removing buildup. However, the causes of these differences are not understood. With this machine and access to synthesized HDLs of varying properties, Dr. Ng and his interns will be able to shed light on this disputed issue and demonstrate how these differences can be measured.
 
-###Research
+### Research
 
 One possible experiment using this system is to test how the size of HDL affects its effectiveness. One solution, containing DiI, is pumped through the aorta (the largest artery) of a mouse for up to an hour. This solution sticks to and lines the aorta. Then a second solution, containing HDL, is pumped through the same way with the goal of remove the first solution. The remnants of the first solution are measured in the aorta using imaging, to quantify the effect of the HDL.
 
 To do this experiment manually requires consistent timing and multitasking, from which arises the risk of systematic error, inconsistency, and expensive mistakes.
 
-###Previous work
+### Previous work
 
 The need for a specialized system to perform this experiment started two decades ago when Rutledge and his collegues created a similar system to handle this problem. However, due to its difficulty to use, a lack of documentation, and changing research needs, the experiment was scrapped and components of it were reused.
 
